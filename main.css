@@ -1,6 +1,6 @@
 @charset 'UTF-8';
 
-*{margin:0; padding-left:0; font-family:'Open Sans', sans-serif; font-size:18px; color: #888;}
+*{margin:0; padding-left:0; font-family:'Open Sans', sans-serif; font-size:18px; color: #363838;}
 body {background-color: #fafafa;}
 
 .nav{opacity:0.8; filter:alpha(opacity=80); z-index:9999}
