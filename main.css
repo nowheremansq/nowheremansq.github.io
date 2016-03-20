@@ -6,6 +6,8 @@ body {background-color: #fafafa;}
 .nav{opacity:0.8; filter:alpha(opacity=80); z-index:9999}
 .nav{line-height:60px; height:60px; width:100%; text-align:center; position:relative; top:0;}
 .place{height:60px; display:none;}
+a{color: #07519a; text-decoration: none}
+a:hover{color: #cc3300 !important; text-decoration: underline}
 
 ul#nav{ list-style-type: none; margin: 0; padding: 0; height:60px; width:100%; background:#778899;margin:0 auto} /*#00A2CA*/
 ul#nav li{ display: inline; height:60px; float:center; line-height:30px; padding:5px; list-style:none; margin-left:0px;margin-bottom:0px; cursor:pointer;}
