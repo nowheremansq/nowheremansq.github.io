@@ -12,7 +12,7 @@ body{background-color: #fafafa;}
 ul#nav{ list-style-type: none; margin: 0; padding: 0; height:60px; width:100%; background:#778899;margin:0 auto} /*#00A2CA*/
 ul#nav li{ display: inline; height:60px; float:center; line-height:30px; padding:5px; list-style:none; margin-left:0px;margin-bottom:0px; cursor:pointer;}
 ul#nav li a{ display:inline-block; width: 100px; padding:0 20px; height:60px; line-height:60px; color:#FFF; font-family:'Open Sans', sans-serif; font-size:16px; text-decoration:none;}
-ul#nav li a:hover{background:#708090; text-decoration: underline;} /*#0095BB*/
+ul#nav li a:hover{background:#708090; text-decoration: underline; font-size:19px;} /*#0095BB*/
 
 h3{font-size: 1.2em; margin:1em 0; color: #3e3e3e;}
 div.container{max-width: 850px; margin-bottom: 50px; margin: 0 auto; padding: 0 2em; line-height: 1.6em;}
