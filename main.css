@@ -4,7 +4,7 @@
   margin:0; 
   padding-left:0; 
   font-family:'Open Sans', Helvetica, Arial, sans-serif; 
-  font-size:16px; 
+  font-size:17px; 
   color: #363838;
 }
 
@@ -95,26 +95,26 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 32px;
+  font-size: 34px;
   font-size: 2rem;
   color: #313131;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 28px;
+  font-size: 30px;
   font-size: 1.8rem;
   color: #313131;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 24px;
+  font-size: 25.5px;
   font-size: 1.5rem;
   color: #3e3e3e;
 }
 /*h3{font-size: 1.2em; margin:1em 0; color: #3e3e3e;}*/
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 16px;
+  font-size: 17px;
   font-size: 1rem;
   color: #313131;
 }
