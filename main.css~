@@ -77,7 +77,7 @@ ul#nav li a{
   line-height:60px; 
   color:#FFF; 
   font-family:'Open Sans', Helvetica, Arial, sans-serif; 
-  font-size:18px; 
+  font-size:16px; 
   text-decoration:none;
 }
 ul#nav li a:hover{
