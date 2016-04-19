@@ -94,16 +94,18 @@ ul#topnav a:hover{
 }
 
 ul#topnav a:active{
-  border: transparent;
+  border-color: transparent;
   text-decoration: none; 
 }
 
 ul#topnav li.head a{
+  border-color: transparent;
   font-size: 22px;
 }
 
 ul#topnav li.head a:hover{
-  border: transparent;
+  font-size: 22px;
+  border-color: transparent;
 }
 
 
